@@ -12,5 +12,5 @@
 #     shield: reviung41
 #
 ---
-include:
-  - board: lpgalaxy_blank_slate
+  include:
+    - board: lpgalaxy_blank_slate/zmk
