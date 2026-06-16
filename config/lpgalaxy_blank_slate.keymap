@@ -50,7 +50,3 @@
         };
     };
 };
-
-&sensors {
-    triggers-per-rotation = <10>;
-};
